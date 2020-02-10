@@ -1,2 +1,2 @@
 # Crowdfunding
-Crowdfunding platform for Itransition
+Crowdfunding platform for Itransition using Spring Booot, Thymeleaf and MySQL database.
